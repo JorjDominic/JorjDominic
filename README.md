@@ -2,7 +2,7 @@
 
 `Aspiring IT Support Specialist turned AI Abusing Vibe Coding Ape`
 
-Learning, building, breaking, and fixing things across IT support, system administration, and AI-assisted development.
+Learning, breaking, and fixing random shit across IT support, system administration, and AI-assisted development.
 
 ### Development
 ![Dart](https://img.shields.io/badge/Dart-Programming%20Language-0175C2?style=for-the-badge&logo=dart&logoColor=white)
