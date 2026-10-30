@@ -1,5 +1,5 @@
 # JorjDominic
-`Aspiring IT Support Specialist turned AI Abusing Vibe Coding Ape`
+`Aspiring IT Professional turned AI Abusing Vibe Coding Ape`
 
 Learning, breaking, and fixing random things across IT support, system administration, and AI-assisted development.
 
